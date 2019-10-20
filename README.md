@@ -1,5 +1,6 @@
 # react-native-maps-navigation
 
+Bug fix for react-native version 0.60.0 and the above.
 Enhances React Native Maps with Realtime Navigation.
 
 `Please note that this module is usable but still under heavy development. Some properties and/or component names might change without notice.`
@@ -9,7 +10,7 @@ Enhances React Native Maps with Realtime Navigation.
 
 ## Installation
 
-**React Native >= 0.49**
+**React Native >= 0.60**
 
 ```bash
 yarn add react-native-maps-navigation
